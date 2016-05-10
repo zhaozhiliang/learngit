@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git tracks changes.
 creating new branch dev and simple
 Git can merge
+update test for bug branch
